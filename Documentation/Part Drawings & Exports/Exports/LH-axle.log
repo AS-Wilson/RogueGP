@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: Tuesday,September 22,2020 11:56AM
+Output File: C:\Users\andyw\Documents\RogueGP\Documentation\Part Drawings & Exports\Exports\LH-axle.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz
+Operating System: Windows 10
+Installed Memory: 15.91 GB
+
+Software Information
+Parasolid Version: 31.1.255
+PSBodyShop Version: 31.1.110
+Step Adapter Version: 5.0.48
+Solid Edge Version: 220.00.00.104 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: Off
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 01
