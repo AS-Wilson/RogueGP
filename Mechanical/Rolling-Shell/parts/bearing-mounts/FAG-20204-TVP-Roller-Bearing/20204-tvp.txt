@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"20204-TVP";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"Schaeffler Technologies AG & Co. KG";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"33-02052019-081268";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Barrel roller bearings";"";
+"TraceParts.InstanceId";"33-02052019-081268CXEBCDI0GLCO7L18P1RIZ2CQS";"";
+"TraceParts.PartTitle";"Barrel roller bearings 202, main dimensions to DIN 635-1";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"SELECTION";"20204-TVP";"";
+"TraceParts.ClassPath";"INAFAG:33-02052019-081268";"";
